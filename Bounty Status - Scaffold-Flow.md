@@ -4,12 +4,12 @@
 
 # Milestone Status
 
-| Phase | Status     | Team | Milestone start date | Milestone due date | Milestone met date |
-|-------|------------|------|----------------------|--------------------|--------------------|
-| One   | Incomplete | N/A  | Mar 29               |                    |                    |
-| Two   | Incomplete |      |                      |                    |                    |
-| Three | Incomplete |      |                      |                    |                    |
-| Four  | Incomplete |      |                      |                    |                    |
+| Phase | Status     | Team         | Milestone start date | Milestone due date | Milestone met date |
+|-------|------------|--------------|----------------------|--------------------|--------------------|
+| One   | Complete   | Emerald City | April 8              | May 4              | May 4              |
+| Two   | Incomplete |              |                      |                    |                    |
+| Three | Incomplete |              |                      |                    |                    |
+| Four  | Incomplete |              |                      |                    |                    |
 
 # Milestone Phases
 1. Product Requirements Documentation and Tech Spec Review + Acceptance

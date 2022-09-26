@@ -1,6 +1,6 @@
 
 # Bounty Status
-- Not Claimed
+- Claimed
 
 # Milestone Status
 

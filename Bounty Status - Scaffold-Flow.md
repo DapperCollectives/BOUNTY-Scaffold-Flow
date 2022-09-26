@@ -1,6 +1,6 @@
 
 # Bounty Status
-- Claimed
+- Complete
 
 # Milestone Status
 
@@ -9,7 +9,7 @@
 | One   | Complete   | Emerald City | April 8              | May 4              | May 4              |
 | Two   | Complete   | Emerald City | May 24               | Jun 24             | July 6             |
 | Three | Complete   | Emerald City | Jun 24               | July 24            | July 6             |
-| Four  | Incomplete |              |                      |                    |                    |
+| Four  | Complete   | Emerald City | July 6               | August 6           | September 26       |
 
 # Milestone Phases
 1. Product Requirements Documentation and Tech Spec Review + Acceptance
